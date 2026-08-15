@@ -1,4 +1,4 @@
-## Hi # Hi, I'm Debasish Paul 👋
+## Hi, I'm Debasish Paul 👋
 
 ### AI Engineer and Python Developer
 
