@@ -102,15 +102,9 @@ A machine learning API that provides heart-disease predictions through a backend
 
 An AI-powered content-generation agent designed to create professional LinkedIn posts with the help of language models and automated workflows.
 
-**Tech Stack:** Python, LangChain, and generative AI.
+A multi-agent AI tutor that plans lessons, teaches students, creates quizzes, and evaluates learning progress through collaborative AI agents.
 
-### [Bangladesh Multi-Tool AI Agent](https://github.com/Dev9019/Bangladesh-MultiTool-AI-Agent)
-
-A multi-tool AI agent designed to work with Bangladesh-related datasets using LangChain, Ollama, SQLite, and web search.
-
-### [Amar Passport AI Agent](https://github.com/Dev9019/Amar-Passport-AI-Agent)
-
-A multi-agent Bangladesh passport assistance system developed using CrewAI.
+**Tech Stack:** Python, CrewAI, Ollama, and artificial intelligence.
 
 
 ## Development Focus
