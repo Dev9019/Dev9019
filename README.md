@@ -1,8 +1,10 @@
 ## Hi, I'm Debasish Paul 👋
 
-### AI Engineer and Python Developer
+### AI Engineer | Python Developer | Generative AI | AI Agents
 
-I am an AI Engineer and Python Developer passionate about building intelligent applications with FastAPI, LangChain, CrewAI, and Hugging Face.
+I build practical AI applications that transform real-world problems into intelligent, usable solutions.
+
+My work focuses on Machine Learning, Generative AI, LLM applications, AI Agents, and Python backend systems using modern AI frameworks and developer tools.
 
 I work on artificial intelligence, machine learning, natural language processing, AI agents, and backend API development. I enjoy transforming ideas into practical solutions using modern AI frameworks and developer tools.
 
@@ -18,10 +20,13 @@ I work on artificial intelligence, machine learning, natural language processing
 
 ## Technical Skills
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
 ### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### AI and Machine Learning
