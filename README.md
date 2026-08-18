@@ -64,17 +64,21 @@ I work on artificial intelligence, machine learning, natural language processing
 
 ### AI-Powered Resume Analyzer & Career Assistant
 
-CareerPilot AI is an AI-powered resume analysis application that evaluates PDF resumes and provides structured career feedback using **Python, FastAPI, Google Gemini, and pdfplumber**.
+AI-powered resume analyser and career assistant built with FastAPI, Google Gemini, and pdfplumber.
 
-The application analyzes resumes across multiple professional criteria and generates a resume score, professional summary, strengths, missing skills, and actionable improvement suggestions.
+The application analyses resumes across multiple professional criteria and generates a resume score, professional summary, strengths, missing skills, and actionable improvement suggestions.
 
 ---
+GitHub Topics
+
+python · fastapi · generative-ai · gemini · llm · resume-analyzer · ai · career-assistant · pdf-processing · rest-api
+
 
 ## 🎯 Project Overview
 
 CareerPilot AI was built to help job seekers understand how effectively their resume communicates their skills, experience, and career potential.
 
-Users upload a PDF resume through the web interface. The FastAPI backend extracts the resume text, sends it to the Gemini-powered analysis engine, and returns structured JSON containing personalized career insights.
+Users upload a PDF resume through the web interface. The FastAPI backend extracts the resume text, sends it to the Gemini-powered analysis engine, and returns structured JSON containing personalised career insights.
 
 ### Key Capabilities
 
