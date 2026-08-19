@@ -459,7 +459,8 @@ Potential future enhancements include:
 Make sure you have:
 
 * Python 3.12+
-* Ollama
+* Google Gemini API
+* Gemini 3 Flash Preview
 * Git
 
 You also need the **Llama 3.2** model available locally through Ollama.
@@ -586,7 +587,7 @@ AI Engineer | Python Developer | Generative AI | AI Agents
 ⭐ If you find this project interesting, feel free to explore the repository.
 
 
-**Tech Stack:** Python, FastAPI, Ollama, Llama 3.2, PyMuPDF, JavaScript, HTML, CSS, and Uvicorn.
+**Tech Stack:** Python, FastAPI, Gemini 3 Flash Preview, PyMuPDF, JavaScript, HTML, CSS, and Uvicorn.
 
 **Live Demo:** [career-pilot-ai-gray-phi.vercel.app](https://career-pilot-ai-gray-phi.vercel.app)
 
